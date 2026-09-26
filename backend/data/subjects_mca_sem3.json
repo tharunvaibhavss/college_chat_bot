@@ -1,0 +1,74 @@
+[
+  {
+    "id": 1,
+    "code": "25CAP314",
+    "name": "Artificial Intelligence",
+    "description": "Covers search algorithms, knowledge representation, game playing, heuristic search, and intelligent agent architectures.",
+    "class_type": "Theory",
+    "faculty": "Department of MCA Faculty"
+  },
+  {
+    "id": 2,
+    "code": "25CAP321",
+    "name": "Artificial Intelligence Lab",
+    "description": "Practical implementation of AI search algorithms, heuristic agents, and Python game development in Room E-208.",
+    "class_type": "Lab",
+    "faculty": "Department of MCA Faculty"
+  },
+  {
+    "id": 3,
+    "code": "25CAP315",
+    "name": "Machine Learning",
+    "description": "Supervised, unsupervised algorithms, model evaluation, and regression/classification workflows.",
+    "class_type": "Theory",
+    "faculty": "Department of MCA Faculty"
+  },
+  {
+    "id": 4,
+    "code": "25CAP322",
+    "name": "Machine Learning Lab",
+    "description": "Hands-on machine learning experiments, data preprocessing, and model pipelines in Room E-311.",
+    "class_type": "Lab",
+    "faculty": "Department of MCA Faculty"
+  },
+  {
+    "id": 5,
+    "code": "25CAP316",
+    "name": "Full Stack Development",
+    "description": "Client-side and server-side web engineering, modern JavaScript, Node.js, Express, and database integration.",
+    "class_type": "Theory",
+    "faculty": "Department of MCA Faculty"
+  },
+  {
+    "id": 6,
+    "code": "25CAP323",
+    "name": "Full Stack Development Lab",
+    "description": "Full stack hands-on lab sessions, responsive UI engineering, and web applications in Room E-208.",
+    "class_type": "Lab",
+    "faculty": "Department of MCA Faculty"
+  },
+  {
+    "id": 7,
+    "code": "25CAP320A_B",
+    "name": "Agile Methodologies / Software Quality Assurance (AM/SQA)",
+    "description": "Elective course covering software testing, verification, validation, CMMI, metrics, Agile mindset, Scrum, and XP practices.",
+    "class_type": "Major Elective",
+    "faculty": "Dr. L. Thara, Dr. M. Mohanapriya & Dr. R.K"
+  },
+  {
+    "id": 8,
+    "code": "25IDCCAPT",
+    "name": "Trans-Disciplinary Course (TDC - PG)",
+    "description": "Interdisciplinary theory course for postgraduate cluster on data analytics, statistical reasoning, and technical discussions.",
+    "class_type": "Theory",
+    "faculty": "Postgraduate Faculty"
+  },
+  {
+    "id": 9,
+    "code": "25IDCCAPP",
+    "name": "Trans-Disciplinary Course Lab (TDC Lab - PG)",
+    "description": "Interdisciplinary data analytics practicals and technical discussion lab in Room E-311.",
+    "class_type": "Lab",
+    "faculty": "Postgraduate Faculty"
+  }
+]
