@@ -134,8 +134,8 @@ def process_chat_message(db: Session, message: str) -> Dict[str, Any]:
         if sub and "AM/SQA" in sub:
             answer = (
                 "AM/SQA (Agile Methodologies / Software Quality Assurance) is handled by "
-                "Dr. L. Thara & Dr. R.K on Day I and Day V (3:00 PM - 5:00 PM), and by "
-                "Dr. M. Mohanapriya & Dr. R.K on Day III (12:15 PM - 1:15 PM & 2:00 PM - 3:00 PM) and Day VI (3:00 PM - 5:00 PM)."
+                "Dr. L. Thara & Dr. R.K on Day I and Day V (3:00 PM - 4:00 PM), and by "
+                "Dr. M. Mohanapriya & Dr. R.K on Day III (12:15 PM - 1:15 PM & 2:00 PM - 3:00 PM) and Day VI (3:00 PM - 4:00 PM)."
             )
             return {"answer": answer, "intent": intent, "sources": ["MCA Semester III Timetable"]}
         elif sub:

@@ -195,7 +195,7 @@ Content-Type: application/json
 **Response:**
 ```json
 {
-  "answer": "AI is scheduled on Day III from 3:00 PM to 5:00 PM.",
+  "answer": "AI is scheduled on Day III from 3:00 PM to 4:00 PM.",
   "intent": "subject_schedule",
   "sources": [
     "MCA Semester III Timetable"
@@ -330,9 +330,9 @@ Students can ask queries such as:
 |---|---|---|
 | **Timetable** | "What do I have on Day I?" | Lists Day I periods (TDC, AI, ML, FSD, AM/SQA) |
 | **Time Schedule** | "What is my class at 11 AM on Day I?" | AI (11:00 AM - 12:00 PM) |
-| **Day Part** | "What do I have on Day III afternoon?" | AM/SQA (2:00 PM - 3:00 PM) and AI (3:00 PM - 5:00 PM) |
+| **Day Part** | "What do I have on Day III afternoon?" | AM/SQA (2:00 PM - 3:00 PM) and AI (3:00 PM - 4:00 PM) |
 | **Lab Location** | "Where is ML Lab?" | Room E-311 |
-| **Lab Timing** | "When is FSD Lab?" | Day III (11:00 AM - 12:15 PM) & Day IV (2:00 PM - 5:00 PM) |
+| **Lab Timing** | "When is FSD Lab?" | Day III (11:00 AM - 12:15 PM) & Day IV (2:00 PM - 4:00 PM) |
 | **Room Lookup** | "What room is AI Lab in?" | Room E-208 |
 | **Day Schedule** | "What is my schedule on Day V?" | FSD, ML, AI, FSD, AM/SQA |
 | **Semester Start** | "When does the odd semester start?" | Classes commence on 15 June 2026 |

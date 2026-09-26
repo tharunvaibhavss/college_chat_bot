@@ -157,7 +157,7 @@ def seed_data(db: Session):
         {
             "day_order": "Day I",
             "start_time": "3:00 PM",
-            "end_time": "5:00 PM",
+            "end_time": "4:00 PM",
             "subject": "AM/SQA",
             "room": "MCA Classroom",
             "faculty": "Dr. L. Thara & Dr. R.K",
@@ -229,7 +229,7 @@ def seed_data(db: Session):
         {
             "day_order": "Day II",
             "start_time": "3:00 PM",
-            "end_time": "5:00 PM",
+            "end_time": "4:00 PM",
             "subject": "ML",
             "room": "MCA Classroom",
             "faculty": "Department of MCA Faculty",
@@ -301,7 +301,7 @@ def seed_data(db: Session):
         {
             "day_order": "Day III",
             "start_time": "3:00 PM",
-            "end_time": "5:00 PM",
+            "end_time": "4:00 PM",
             "subject": "AI",
             "room": "MCA Classroom",
             "faculty": "Department of MCA Faculty",
@@ -353,7 +353,7 @@ def seed_data(db: Session):
         {
             "day_order": "Day IV",
             "start_time": "2:00 PM",
-            "end_time": "5:00 PM",
+            "end_time": "4:00 PM",
             "subject": "FSD Lab",
             "room": "E-208",
             "faculty": "Department of MCA Faculty",
@@ -425,7 +425,7 @@ def seed_data(db: Session):
         {
             "day_order": "Day V",
             "start_time": "3:00 PM",
-            "end_time": "5:00 PM",
+            "end_time": "4:00 PM",
             "subject": "AM/SQA",
             "room": "MCA Classroom",
             "faculty": "Dr. L. Thara & Dr. R.K",
@@ -487,7 +487,7 @@ def seed_data(db: Session):
         {
             "day_order": "Day VI",
             "start_time": "3:00 PM",
-            "end_time": "5:00 PM",
+            "end_time": "4:00 PM",
             "subject": "AM/SQA",
             "room": "MCA Classroom",
             "faculty": "Dr. M. Mohanapriya & Dr. R.K",

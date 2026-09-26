@@ -6,7 +6,7 @@ venv/
 .env
 .pytest_cache/
 *.db
-college_academic.db
+!backend/college_academic.db
 
 # Node.js / Next.js
 frontend/node_modules/

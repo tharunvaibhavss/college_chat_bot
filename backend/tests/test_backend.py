@@ -103,7 +103,7 @@ def test_chat_subject_schedule():
     assert res.status_code == 200
     ans = res.json()["answer"]
     assert "3:00 PM" in ans
-    assert "5:00 PM" in ans
+    assert "4:00 PM" in ans
 
 
 def test_chat_semester_dates():
